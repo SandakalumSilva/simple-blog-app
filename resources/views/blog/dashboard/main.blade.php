@@ -1,4 +1,4 @@
-@extends('blog.dashboard.app')
+@extends('blog.dashboard.dashboard')
 @section('title','Dashboard')
 @section('content')
     <!-- Main Content -->
